@@ -25,9 +25,8 @@
 </p>
 
 ### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhag2507&layout=compact&theme=radical" alt="top languages" />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nabhag2507&layout=compact&theme=radical)
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
