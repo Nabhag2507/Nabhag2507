@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Nabhag</h1>
+<h3 align="center">A passionate coder and future ML Engineer</h3>
+
+
 - 👋 Hi, I’m @Nabhag2507
 - 👀 I’m interested coding,travelling,singing and many more.
 - 🌱 I’m currently Computer science and engineering at Darshan University Rajkot. 
