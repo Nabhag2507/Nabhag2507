@@ -8,7 +8,7 @@
 - 🎓 Studying **Computer Science & Engineering** at Darshan University, Rajkot  
 - 💼 Interested in **Machine Learning, Backend, DevOps, Automation**  
 - 🤝 Looking for **internships or part-time roles** in IT  
-- 📫 Email: **nabhagsorathiya81@gmail.com**
+- 📫 Email: **
 
 ---
 
