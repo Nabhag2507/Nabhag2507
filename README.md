@@ -50,10 +50,9 @@
 ---
 
 ## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=dracula&margin-w=15" alt="Nabhag2507's GitHub Profile Trophies" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=dracula&margin-w=15&no-frame=true&rank=-C,-B&cache_seconds=1800" />
+</p>
 
 ---
 
