@@ -51,7 +51,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=dracula&margin-w=15" />
+![Nabhag2507's GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=dracula&margin-w=15)
 </p>
 
 ---
