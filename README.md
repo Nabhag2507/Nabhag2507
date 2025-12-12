@@ -36,10 +36,11 @@
 ---
 
 # 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=radical&no-bg=true&margin-w=10](https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=radical&no-bg=true&margin-w=10
-)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=radical&no-bg=true&margin-w=10" />
 </p>
+
 
 ---
 
