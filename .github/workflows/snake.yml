@@ -22,9 +22,11 @@ jobs:
         with:
           github_user_name: Nabhag2507
           outputs: dist/github-contribution-grid-snake.svg
+          mode: "github"
           background_color: "#000000"
-          color_snake: "#39ff14"        # neon green snake
-          color_dots: "#ffffff,#444444" # white + gray dots
+          color_snake: "#ff00ff"        # neon purple snake
+          color_dots: "#39ff14,#00ffaa" # green dots
+
 
 
       - name: Push to output branch
