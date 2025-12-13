@@ -33,23 +33,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,github,linux,aws" />
 </p>
 
----
-
-# 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=radical" />
-</p>
-
-
----
-
-# 🔥 GitHub Contribution Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nabhag2507&theme=radical&hide_border=true" />
-</p>
-
----
-
 # 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nabhag2507&show_icons=true&theme=radical" height="150" />
