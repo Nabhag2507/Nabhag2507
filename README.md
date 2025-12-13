@@ -37,7 +37,7 @@
 
 # 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=radical&no-frame=true&margin-w=15&row=1" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
