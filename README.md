@@ -37,8 +37,9 @@
 
 # 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=radical" />
 </p>
+
 
 ---
 
