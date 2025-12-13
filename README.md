@@ -30,7 +30,7 @@
 
 # 🧰 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,express,mongodb,git,linux,aws" />
 </p>
 
 # 📊 GitHub Stats  
