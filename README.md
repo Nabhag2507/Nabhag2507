@@ -36,9 +36,8 @@
 ---
 
 # 🏆 GitHub Trophies  
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=radical&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nabhag2507&theme=radical&no-frame=true&margin-w=15&row=1" />
 </p>
 
 
@@ -46,7 +45,7 @@
 
 # 🔥 GitHub Contribution Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag2507&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Nabhag2507&theme=radical&hide_border=true" />
 </p>
 
 ---
