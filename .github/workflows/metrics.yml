@@ -13,13 +13,18 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Nabhag2507
+          filename: github-metrics.svg
           template: classic
           base: header,activity,community,repositories
-          isocalendar: yes
-          isocalendar_duration: full-year
-          languages: yes
-          followup: yes
-          achievements: yes
-          achievements_threshold: C
-          achievements_display: compact
-          notable: yes
+
+          plugins_isocalendar: yes
+          plugins_isocalendar_duration: full-year
+
+          plugins_languages: yes
+          plugins_followup: yes
+
+          plugins_achievements: yes
+          plugins_achievements_threshold: C
+          plugins_achievements_display: compact
+
+          plugins_notable: yes
