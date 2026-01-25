@@ -1,8 +1,6 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,15 +14,5 @@ jobs:
           filename: github-metrics.svg
           template: classic
           base: header,activity,community,repositories
-
           plugins_isocalendar: yes
-          plugins_isocalendar_duration: full-year
-
           plugins_languages: yes
-          plugins_followup: yes
-
-          plugins_achievements: yes
-          plugins_achievements_threshold: C
-          plugins_achievements_display: compact
-
-          plugins_notable: yes
