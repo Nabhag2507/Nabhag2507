@@ -51,7 +51,7 @@
 
 # 📊 Full Metrics Dashboard  
 <p align="center">
-  <img src="https://metrics.lecoq.io/Nabhag2507?template=classic&base=header,activity,community,repositories&isocalendar=1&languages=1&followup=1&activity=1&achievements=1&notable=1&achievements.threshold=C&achievements.display=compact&isocalendar.duration=full-year" />
+  ![Metrics](https://raw.githubusercontent.com/Nabhag2507/Nabhag2507/main/github-metrics.svg)
 </p>
 
 
