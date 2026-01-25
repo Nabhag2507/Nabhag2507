@@ -54,6 +54,7 @@
   <img src="https://metrics.lecoq.io/Nabhag2507?template=classic&base=header,activity,community,repositories&isocalendar=1&languages=1&followup=1&activity=1&achievements=1&notable=1&achievements.threshold=C&achievements.display=compact&isocalendar.duration=full-year" />
 </p>
 
+
 ---
 
 # 🐍 Snake Contribution Animation  
