@@ -1,129 +1,59 @@
-# <h1 align="center">Hi, I'm Nabhag Sorathiya 👋</h1>
+# Nabhag Sorathiya
 
-<h3 align="center">
-Machine Learning Engineer in Progress • Software Developer • Open Source Enthusiast
-</h3>
+Computer Science undergraduate at Darshan University with a strong interest in Machine Learning, Software Engineering, and Cloud Computing.
 
-<p align="center">
-  <a href="mailto:nabhagsorathiya81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Nabhag2507">
-    <img src="https://img.shields.io/github/followers/Nabhag2507?style=for-the-badge&logo=github">
-  </a>
-</p>
+Currently focused on building a solid foundation in machine learning algorithms, data science, and backend development while exploring modern cloud and DevOps practices.
 
----
+## Areas of Interest
 
-## 🚀 About Me
+* Machine Learning
+* Software Engineering
+* Backend Development
+* Cloud Computing
+* Open Source
 
-```python
-class Nabhag:
-    education = "B.Tech CSE @ Darshan University"
-    interests = [
-        "Machine Learning",
-        "Backend Development",
-        "Cloud Computing",
-        "Open Source"
-    ]
+## Current Focus
 
-    currently_learning = [
-        "Machine Learning",
-        "Docker",
-        "Linux",
-        "AWS"
-    ]
+* Studying machine learning and data science
+* Building end-to-end ML projects
+* Learning Linux, Docker, and AWS
+* Improving software engineering practices
 
-    goal = "Become a Machine Learning Engineer"
-```
+## Technical Skills
 
-* 🎓 Computer Science Engineering student at **Darshan University**
-* 🤖 Passionate about **Machine Learning and AI**
-* ⚙️ Building projects using **Python, React, Node.js, and MongoDB**
-* ☁️ Exploring **Cloud Computing and DevOps**
-* 🌱 Continuously learning and contributing to open source
+**Languages**
 
----
+Python, Java, JavaScript, SQL, C
 
-## 🛠 Tech Stack
+**Frameworks & Libraries**
 
-### Languages
+Scikit-learn, Pandas, NumPy, React, Node.js, Express
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,sql" />
-</p>
+**Tools**
 
-### Frameworks & Libraries
+Git, Linux, Docker, MongoDB, AWS
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
+## Selected Projects
 
-### Tools & Platforms
+### OPD Management System
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vscode" />
-</p>
+Full-stack hospital management application featuring patient registration, OPD management, billing, and role-based access control.
 
----
+### Machine Learning Projects
 
-## 📈 GitHub Analytics
+Collection of machine learning implementations and end-to-end projects covering data preprocessing, model development, and evaluation.
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nabhag2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### RAWG Games Dataset
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhag2507&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Created and published a gaming dataset by collecting and processing data from the RAWG API.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag2507&theme=tokyonight&hide_border=true" />
-</p>
+## Education
 
----
+**Darshan University, Rajkot**
+Bachelor of Technology in Computer Science and Engineering
 
-## 📊 Contribution Graph
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabhag2507&theme=tokyo-night&hide_border=true" />
-</p>
+Email: [nabhagsorathiya81@gmail.com](mailto:nabhagsorathiya81@gmail.com)
 
----
-
-## 🌟 Featured Projects
-
-### 🏥 OPD Management System
-
-Full-stack hospital management platform with role-based dashboards, patient management, OPD records and billing.
-
-### 🎮 RAWG Games Dataset Project
-
-Built and published a dataset by collecting and processing gaming data from the RAWG API.
-
-### 🤖 Machine Learning Projects
-
-Collection of end-to-end ML projects covering data preprocessing, model building and evaluation.
-
----
-
-## 🏆 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabhag2507&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nabhag2507/Nabhag2507/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code • Learn • Build • Improve"</i>
-</p>
+GitHub: github.com/Nabhag2507
